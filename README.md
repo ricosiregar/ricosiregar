@@ -1,5 +1,5 @@
 # 💫 About Me:
-•  📱 Currently focused on building mobile apps with Flutter and Kotlin<br>•  🏗️ Experienced in applying Clean Architecture (domain / data / presentation layer) in large-scale Flutter apps <br>•  🌐 Also active in building web apps with React & TypeScript, including Supabase integration <br>•  🖥️ Experienced in production VPS deployment & setup (Nginx, PM2, systemd, Certbot SSL, self-hosted n8n) <br>•  🎓 Completed thesis documentation on blackbox testing for an e-commerce admin panel<br>
+•  📱 Currently focused on building mobile apps with Flutter and Kotlin<br>•  🏗️ Experienced in applying Clean Architecture (domain / data / presentation layer) in large-scale Flutter apps <br>•  🌐 Also active in building web apps with React & TypeScript, including Supabase integration <br>•  🖥️ Experienced in production VPS deployment & setup (Nginx, PM2, systemd, Certbot SSL, self-hosted n8n) <br>
 
 
 ## 🌐 Socials:
